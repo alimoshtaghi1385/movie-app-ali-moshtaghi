@@ -1,3 +1,3 @@
-jskadjaslkdjalskjdakls
-adslkdsa
-retert
+void main(){
+    print("sadasd");
+}
