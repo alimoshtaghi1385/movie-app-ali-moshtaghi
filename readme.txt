@@ -1,2 +1,4 @@
+My coding game Profile link:
 https://www.codingame.com/profile/2595d0383934e396386828b43a1f25369489336
-My coding game link is up this txt
+My Student Number:
+03110033302
